@@ -1,0 +1,31 @@
+id: P7088A075
+initial_creation_type: ocr
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA1KG405
+  instance_id: http://purl.bdrc.io/resource/IE1KG405
+  collection_id: http://purl.bdrc.io/resource/PR0ET009
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - གཡུ་མཚོའི་དྲིལ་ཆུང་།
+  alt_title:
+    zh-latn-pinyin-x-ndia:
+    - shueng hu de hu sheng
+  author: http://purl.bdrc.io/resource/P1KG407
+  publisher: UCB-OCR
+  access: http://purl.bdrc.io/admindata/AccessFairUse
+  restrictedInChina: false
+  volumes:
+    d3d000ce848c4bdeb3127894afac88a5:
+      title: པོད ༡་གཡུ་མཚོའི་དྲིལ་ཆུང
+      volume_number: 1
+      base_file: UT1KG405_I1KG410_0000.txt
+      reference: http://purl.bdrc.io/resource/VL7A0490F27141A930
+      image_group: I1KG410
+      quality: Low
+  reproductionOf:
+  - http://purl.bdrc.io/resource/MW1KG405
+  - http://purl.bdrc.io/resource/W1KG405
+  ocr_software: Namsel
+created_at: '2021-12-22T10:38:08.894807'
+last_modified_at: '2021-12-22T10:38:08.894814'
